@@ -2,6 +2,12 @@
 
 Just testing for use with an EP2000
 
+This repo will use the Base Device "ProtocolV2Device.py" only, afaik. Please see 
+
+https://github.com/MegaBarf/hassio-bluetti-bt-ep2000-Tests 
+
+for current investigations. Sorry but I have nearly no time to work on that, even if I really want to!
+
 
 # hassio-bluetti-bt
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
